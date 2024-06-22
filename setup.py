@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 # modify here
-REPO_NAME = "ipynbrenderer"
+REPO_NAME = "example_repository"
 AUTHOR_USER_NAME = "abhikashyap"
-SRC_REPO = "ipynbrenderer"
+SRC_REPO = "example_repository"
 AUTHOR_EMAIL = "abhikashyap.ds@gmail.com"
 
 setuptools.setup(
